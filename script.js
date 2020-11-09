@@ -59,7 +59,7 @@ function getCity(city) {
 
     $(".current-city").text(response.name + " (" + currentDate + ")");
     $(".current-city").append(iconImage);
-    $("#temp").text("Tempeture : " + response.main.temp + " °F");
+    $("#temp").text("Temperature : " + response.main.temp + " °F");
     $("#hum").text("Humidity : " + response.main.humidity + " %");
     $("#windy").text("Wind Speed : " + response.wind.speed + " MPH");
     
