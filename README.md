@@ -9,6 +9,7 @@ This "Weather Dashboard" application was created using JavaScript, jQuery and Op
 ## Usage
 
 User will notice following files: 'index.html','style.css' and 'script.js'. Also, there's a README file.
+User can enter the name of any city and click on the button. He will immediately get the weather data for that city plus the forecast for the next five days. All the data's being stored in the Local Storage.
 Link to a deployed application you can find here: https://ivanduranic.github.io/weather-dashboard/
 
 ## Support
